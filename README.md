@@ -1,5 +1,5 @@
 
-# devTinder Frontend s
+# DevTinder Frontend 
 
 ## 🚀 Overview
 
