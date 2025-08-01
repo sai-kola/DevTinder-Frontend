@@ -9,7 +9,7 @@
 
 -  **Frontend:** React.js, Vite, Redux Toolkit, Tailwind CSS
 -  **State Management:** Redux Toolkit
--  **Backend:** Node Js + Express JS [devTinder Backend]
+-  **Backend:** Node Js + Express JS [https://github.com/sai-kola/DevTinder-Backend]
 -  **Authentication:** JWT
 -  **Database:** MongoDB (via backend)
 
@@ -22,7 +22,7 @@ git clone https://github.com/your-username/devTinder-frontend.git
 
 2. Navigate to the project directory:
 ```sh
-cd DevTinder-frontend
+cd DevTinder-Frontend
 ```
 
 3. Install dependencies:
@@ -48,7 +48,7 @@ npm run dev
 
 ## 🔧 API Endpoints
 
-The frontend interacts with the backend API hosted in the [devTinder-backend]. Ensure the backend is running before using the frontend.
+The frontend interacts with the backend API hosted in the [https://github.com/sai-kola/DevTinder-Backend]. Ensure the backend is running before using the frontend.
 
 ## 🚀 Deployment
 
